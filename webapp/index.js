@@ -20,10 +20,14 @@ app.listen(port, () => {
     console.log(`port is listening at port number ${port}`);
 });
 
-app.get("/:name", (req,res) => {
-    let customers = ["Priya", "Ritika", "Tisha", "Anjali", "Eshita", "Munmun"];
-    randIdx = Math.floor(Math.random()*customers.length)
-    let name = customers[randIdx];
-    // For the time being, consider this data to be coming from the database.
-
-    let { name } = req.params;
+app.get("/", (req,res) => {
+        let customers = ["Priya", "Ritika", "Tisha", "Anjali", "Eshita", "Munmun"];
+        randIdx = Math.floor(Math.random()*customers.length)
+        let name = customers[randIdx];
+        // For the time being, consider this data to be coming from the database.
+    
+        // let { name } = req.params;
+    
+        res.render("home.ejs", {CustomerName: name});
+        console.log("home page rendered successfully.")
+    });
