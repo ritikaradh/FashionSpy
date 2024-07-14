@@ -1,0 +1,206 @@
+body{
+    /* font-family: "Montserrat"; */
+    margin: 0;  /*for removing extra space from the page*/
+    background-color:rgb(240, 239, 239);
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    top: 0.01rem;
+    z-index: 1;
+    position: sticky;
+    height: 10vh;
+    width: 97%;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: white;
+    padding: 0.8rem 1.02rem 0.8rem 1.02rem;
+}
+
+.main{
+    padding: 1.5rem 2rem 2rem 2.5rem;
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.shopping-categories{
+    display: flex;
+    flex-direction: row;
+    margin: 0.5rem 0.1rem 0.5rem -3rem;
+}
+
+.shopping-actions{
+    display: flex;
+    flex-direction: row;
+    margin: 0rem 1rem 0rem 0.1rem;
+}
+
+.shopping-actions-nav{
+    display: flex;
+    flex-direction: column;
+    margin: 0.25rem;
+}
+
+.shopping-actions-nav i{
+    align-self: center;
+}
+
+.wishlist, .bag{
+    cursor: pointer;
+}
+
+.nav-action{
+    align-content: center;
+    margin: 1rem;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+#myntra-logo{
+    margin-left: 0.25rem;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    padding-left: 0.05rem;
+    padding-right: 0.05rem;
+    height: 3rem;
+    align-self: center;
+}
+
+.search-bar-nav{
+    align-self: center;
+    margin: 0.2rem;
+}
+
+.myntra-first-purchase{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#flat-off{
+    font-size:xx-large;
+    display: flex;
+    background-color:gold;
+    height: 5rem;
+    width: 45rem;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#first-purchase{
+    font-size: large;
+    display:flex;
+    background-color:rgb(70, 153, 180);
+    height: 5rem;
+    width: 20rem;
+    margin-left: -10rem;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.myntra-monsoon-coupons{
+    padding-top: 2rem; 
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#fashion-spy-avatar{
+    height:10.5rem; 
+    width:7.5rem; 
+    left: 0.1rem;
+    bottom: 0.5rem;
+    position: fixed;
+    cursor: pointer;
+}
+
+#fashion-spy-text{
+    padding: 0.5rem 0.1rem 0.1rem 1rem;
+    height: 4rem;
+    width: 6rem;
+    left: 6rem;
+    bottom:1.5rem;
+    position: fixed;
+    background-color: deeppink;
+    color: white;
+    opacity: 1;
+}
+
+#bell-icon{
+    height: 3.5rem;
+    width: 3.5rem;
+    right: 1rem;
+    bottom: 1rem;
+    position: fixed;
+    cursor: pointer;
+}
+
+.nav-action:hover, .shopping-actions-nav:hover, .myntra-first-purchase:hover, .myntra-monsoon-coupons:hover, #myntra-logo:hover, #bell-icon:hover{
+    transform: scale(1.05);
+}
+
+#fashion-spy-avatar:hover{
+    transform: scale(1.07);
+}
+#fashion-spy-text:hover{
+    color:yellow;
+}
+
+
+
+.fashion-spy-banner{
+    width: 100vw;
+    background-color: #ff0f38;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 1.02rem;
+}
+
+.blog{
+    padding: 3rem 15rem 5rem 15rem;
+}
+
+.blog-content-header{
+    text-align: center;
+}
+
+.blog-content-header h1:hover{
+    transform: scale(1.05);
+}
+
+.blog-content-main{
+    background-color:#FADCD9;
+    white-space: pre-wrap;
+    padding: 1rem;
+}
+
+.blog-content-footer{
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-top: 5rem;
+}
+
+#fashion-spy-poster:hover{
+    transform: scale(1.05);
+}
