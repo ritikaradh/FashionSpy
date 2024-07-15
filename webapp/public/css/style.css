@@ -142,8 +142,13 @@ body{
     bottom:1.5rem;
     position: fixed;
     background-color: #ff1493;
-    color: white;
     opacity: 1;
+    cursor: pointer;
+}
+
+#fashion-spy-text a{
+    text-decoration: none;
+    color: white;
 }
 
 #bell-icon{
@@ -159,11 +164,12 @@ body{
     transform: scale(1.05);
 }
 
-#fashion-spy-avatar:hover{
+#fashion-spy-text:hover{
     transform: scale(1.07);
 }
-#fashion-spy-text:hover{
-    color:yellow;
+
+#fashion-spy-text a:hover{
+    color: yellow;
 }
 
 
@@ -191,9 +197,9 @@ body{
 }
 
 .blog-content-main{
-    background-color:#f6e7e6;
+    background-color:#fcc8e6;
     white-space: pre-wrap;
-    padding: 1rem;
+    padding: 2rem 2.5rem 2.5rem 3rem;
 }
 
 .blog-content-footer{
@@ -205,3 +211,4 @@ body{
 #fashion-spy-poster:hover{
     transform: scale(1.05);
 }
+

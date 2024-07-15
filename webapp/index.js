@@ -43,9 +43,7 @@ app.get("/", (req, res)=>{
 });
 
 //view route
-app.get("/:username/fashionspy", async(req, res) => {
-	let {username} = req.params;
-	username = username[0].toUpperCase()+username.slice(1);
+app.get("/fashionspy", async(req, res) => {
 
 	let blog_topic = topics[Math.floor(Math.random()*topics.length)];
 	let blog_audience = audience[Math.floor(Math.random()*audience.length)];
@@ -60,16 +58,16 @@ app.get("/:username/fashionspy", async(req, res) => {
 	}
 
 	let content = await run();
-	console.log(typeof(content));
+	// console.log(typeof(content));
 
 	//post-processing- removing unnecessary characters
 	let contentStr = await content.toString();
 	contentStr = await contentStr.replaceAll("*", "");
 	contentStr = await contentStr.replaceAll("#", "");
-	console.log(contentStr);
+	// console.log(contentStr);
 	
 	let title = await contentStr.slice(0, contentStr.indexOf(":"));
 	// console.log(body)
 
-	res.render("blog.ejs", {customerName : username, blogTitle: title, blogContent : contentStr});	
+	res.render("blog.ejs", {blogTitle: title, blogContent : contentStr});	
 });
