@@ -1,7 +1,7 @@
 body{
     /* font-family: "Montserrat"; */
     margin: 0;  /*for removing extra space from the page*/
-    background-color:rgb(240, 239, 239);
+    background-color:azure;
 }
 
 .container{
@@ -16,8 +16,8 @@ body{
     top: 0.01rem;
     z-index: 1;
     position: sticky;
-    height: 10vh;
-    width: 97%;
+    height: 12vh;
+    width: 100%;
     flex-direction: row;
     justify-content:space-between;
     background-color: white;
@@ -41,7 +41,7 @@ body{
 .shopping-actions{
     display: flex;
     flex-direction: row;
-    margin: 0rem 1rem 0rem 0.1rem;
+    margin: 0.5rem 1rem 0rem 0.1rem;
 }
 
 .shopping-actions-nav{
@@ -141,7 +141,7 @@ body{
     left: 6rem;
     bottom:1.5rem;
     position: fixed;
-    background-color: deeppink;
+    background-color: #ff1493;
     color: white;
     opacity: 1;
 }
@@ -167,6 +167,7 @@ body{
 }
 
 
+/* blog page styling */
 
 .fashion-spy-banner{
     width: 100vw;
@@ -190,7 +191,7 @@ body{
 }
 
 .blog-content-main{
-    background-color:#FADCD9;
+    background-color:#f6e7e6;
     white-space: pre-wrap;
     padding: 1rem;
 }

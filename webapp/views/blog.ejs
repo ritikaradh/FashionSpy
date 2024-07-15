@@ -1,7 +1,6 @@
 <%-include("includes/head.ejs");%>
 
         <div class="fashion-spy-banner">
-            <!-- <img src="./prerequisites/myntra_logo.png" id="myntra_logo" style="height: 5rem; width: 5rem;"> -->
             <img src="/fashion_spy_poster.png" id="fashion-spy-poster" style="height:25rem; width:25rem;"/>
         </div>
 
@@ -14,19 +13,12 @@
             
             <div class="blog-content-main"><%=blogContent%></div>
 
-            <!-- <div class="blog-content-image">
-                <img src="/gigi_hadid.jpg" style="height: 50px; width: 60px;"/>
-                <img src="/spring_2024.png" style="height: 20px; width: 15px;">
-            </div> -->
-
             <div class="blog-content-footer">Be Fashionable, Be Myntraites!</div>
         </div>
 
-        <form action="/" method="get">
-            <img id="fashion-spy-avatar" src="/fashion_spy_avatar.png"/>
-            <div id="fashion-spy-text">Hii <%=customerName%>! Wanna ask something?</div>
-        </form>
-
+        <div class="footer">
+            <%-include("includes/chatbot.ejs")%>
+        </div>
     </div>
 </body>
 </html>
