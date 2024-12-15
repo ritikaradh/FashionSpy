@@ -1,1 +1,1 @@
-Fashion Spy is a personalized AI generated blog which daily brings fashion bits to the users. At the blog, an AI chatbot is embedded that asks the users if they want to see such recommendations from the ecommerce compamy? For additional assistance it solves fashion-related queries of users.
+# Fashion Spy
