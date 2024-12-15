@@ -13,19 +13,36 @@ If they think more fashion, they will buy more fashion. The GenAI feature on Fas
 
 
 ## Features
-1. Fashion Spy is an AI generated fashion blog feature that daily brings trending and mindful fashion bits to users. For example-
+* Fashion Spy is an AI generated fashion blog feature that daily brings trending and mindful fashion bits to users. For example-
    * Trending colors or prints or patterns for this season
    * Fashion trends for Different Body Types
    * Wearable Tech Trends
    * Eco-friendly trends to follow
    * Style looks according to Profession
 
-3. Fashion Spy also has an integrated AI chatbot that gives current-location based clothing suggestions. 
+* Fashion Spy also has an integrated AI chatbot that gives current-location based clothing suggestions. 
 
-4. For additional assistance, it also solves fashion related queries of users.
+* For additional assistance, it also solves fashion related queries of users.
 
 
 ## Technical Details
-
+* Frontend Development
+   * Embedded JavaScript (EJS) for data-driven dynamic content rendering.
+   * Vanilla CSS, Bootstrap and Font Awesome for styling.
+   * JavaScript for functionalities.
+     
+* Backend Development
+   * REST APIs
+   * Node.js with Express.js
+     
+* External API
+  * Gemini API for real-time blog generation and chatbot.
+  * Open Weather Map for fetching weather conditions at the current location entered by the user on the chatbot.
+    
+* Version Control System
+  * Git.
 
 ## Contributors
+
+
+## Acknowledgements
