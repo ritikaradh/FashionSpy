@@ -1,7 +1,8 @@
 # Fashion Spy
 
 ## About
-A GenAI feature on Fashion Ecommerce Platform- Fashion Spy, your daily fashion bits!
+"Fashion Spy- Your Daily Fashion Bits!" is a GenAI feature aimed for Fashion Ecommerce Platform in India. It was developed as prototype in phase 2 of Myntra HackerRamp 2024. 
+
 ![alt text](FashionSpy.png)
 
 
@@ -45,13 +46,13 @@ If they think more fashion, they will buy more fashion. The GenAI feature on Fas
 
 
 ## Future Scopes
-* Fashion Spy can be integrated with the user database on shopping platforms to deliver AI generated personalized fashion blogs to the users.
-* Fashion Spy can be integrated with the Product Information Management (PIM) database to recommend products from the blog to the user.
+* Fashion Spy can be integrated with the User Database of ecommerce platforms to deliver AI generated personalized fashion blogs to the users.
+* Fashion Spy can be integrated with the Product Information Management (PIM) database of ecommerce platforms to recommend products from the blog to the user.
 
 ## Contributors
 Thanks to @MunmunPatra @Eshita-3 for their contributions to this project.
 
 
 ## Acknowledgements
-* Thanks to Myntra HackerRamp 2024 for providing a platform where the idea of this project turned into a working prototype.
+* Thanks to Myntra HackerRamp 2024 for providing a platform where the idea of the idea for this project could be turned into a working prototype.
 * Special thanks to the Node.js and Gemini API community for their documentations and resources.
