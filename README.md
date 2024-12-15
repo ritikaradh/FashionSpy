@@ -43,6 +43,8 @@ If they think more fashion, they will buy more fashion. The GenAI feature on Fas
   * Git.
 
 ## Contributors
+* Munmun Patra
+* Eshita Dey
 
 
 ## Acknowledgements
