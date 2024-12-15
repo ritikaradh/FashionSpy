@@ -1,7 +1,7 @@
 # Fashion Spy
 
 ## About
-A GenAI feature on Fashion Ecommerce Platform
+A GenAI feature on Fashion Ecommerce Platform ![alt text](https://drive.google.com/file/d/1pd0a_3HSA1_p57u6aK1740RmBhrckdRh/view?usp=sharing)
 
 
 ## Description
