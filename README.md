@@ -42,9 +42,15 @@ If they think more fashion, they will buy more fashion. The GenAI feature on Fas
 * Version Control System
   * Git.
 
+
+## Future Scopes
+* Fashion Spy can be integrated with the user database on shopping platforms to deliver AI generated personalized fashion blogs to the users.
+* Fashion Spy can be integrated with the Product Information Management (PIM) database to recommend products from the blog to the user.
+
 ## Contributors
-* Munmun Patra
-* Eshita Dey
+Thanks to @MunmunPatra and @Eshita-3 for their contributions to this project.
 
 
 ## Acknowledgements
+* Thanks to Myntra HackerRamp 2024 for providing a platform where the idea of this project turned into a working prototype.
+* Special thanks to the Node.js and Gemini API community for their documentations and resources.
