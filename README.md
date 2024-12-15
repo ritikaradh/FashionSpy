@@ -48,7 +48,7 @@ If they think more fashion, they will buy more fashion. The GenAI feature on Fas
 * Fashion Spy can be integrated with the Product Information Management (PIM) database to recommend products from the blog to the user.
 
 ## Contributors
-Thanks to @MunmunPatra and @Eshita-3 for their contributions to this project.
+Thanks to @MunmunPatra @Eshita-3 for their contributions to this project.
 
 
 ## Acknowledgements
