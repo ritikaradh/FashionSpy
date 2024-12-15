@@ -54,5 +54,5 @@ Thanks to @MunmunPatra @Eshita-3 for their contributions to this project.
 
 
 ## Acknowledgements
-* Thanks to Myntra HackerRamp 2024 for providing a platform where the idea of the idea for this project could be turned into a working prototype.
+* Thanks to Myntra HackerRamp 2024 for providing a platform where the idea for this project could be turned into a working prototype.
 * Special thanks to the Node.js and Gemini API community for their documentations and resources.
