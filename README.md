@@ -11,7 +11,7 @@ In the quest of solving this intriguing societal-business nexus, we come up with
 
 
 ## Features
-Fashion spy is based on the ideology that "If they think more fashion, then they'll buy more fashion."
+If they think more fashion, they will buy more fashion. The GenAI feature on Fashion Ecommerce Platform- Fashion Spy is based on this ideology and so are its features to curated as discussed below.
 
 1. Fashion Spy is an AI generated fashion blog feature that daily brings trending and mindful fashion bits to users. For example-
    * Trending colors or prints or patterns for this season
