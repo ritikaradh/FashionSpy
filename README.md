@@ -9,7 +9,7 @@ GenZ, the group of individuals aged between 14 years and 27 years (as of 2024), 
 
 In the quest of solving this intriguing societal-business nexus, we come up with Fashion Spy. 
 
-If they think more fashion, they will buy more fashion. The GenAI feature on Fashion Ecommerce Platform- Fashion Spy is based on this ideology and so are its features curated that are discussed in the next section.
+If they think more fashion, they will buy more fashion. The GenAI feature on Fashion Ecommerce Platform- Fashion Spy is based on this insight and so are its features curated that are discussed in the next section.
 
 
 ## Features
