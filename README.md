@@ -1,7 +1,7 @@
 # Fashion Spy
 
 ## About
-"Fashion Spy- Your Daily Fashion Bits!" is a GenAI feature aimed for Fashion Ecommerce Platform in India. It was developed as prototype in phase 2 of Myntra HackerRamp 2024. 
+Fashion Spy- Your Daily Fashion Bits! is a GenAI feature designed specifically for India's Fashion Ecommerce Platform like Myntra. It was first prototyped during phase 2 of Myntra HackerRamp 2024.
 
 ![alt text](FashionSpy.png)
 
