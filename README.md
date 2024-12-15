@@ -11,16 +11,16 @@ In the quest of solving this intruiging societal-business nexus, we come up with
 
 
 ## Features
-* Fashion Spy is an AI generated fashion blog feature that daily brings trending and mindful fashion bits to users. For example-
-1. Trending colors or prints or patterns for this season.
-2. Fashion trends for Different Body Types
-3. Wearable Tech Trends
-4. Eco-friendly trends to follow
-5. Style looks according to Profession
+1. Fashion Spy is an AI generated fashion blog feature that daily brings trending and mindful fashion bits to users. For example-
+* Trending colors or prints or patterns for this season.
+* Fashion trends for Different Body Types
+* Wearable Tech Trends
+* Eco-friendly trends to follow
+* Style looks according to Profession
 
-* Fashion Spy also has an integrated AI chatbot that gives current-location based clothing suggestions. 
+2. Fashion Spy also has an integrated AI chatbot that gives current-location based clothing suggestions. 
 
-* For additional assistance, it also solves fashion related queries of users.
+3. For additional assistance, it also solves fashion related queries of users.
 
 
 ## Technical Details
