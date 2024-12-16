@@ -1,10 +1,8 @@
 # Fashion Spy
+![alt text](FashionSpy.png)
 
 ## About
 Fashion Spy- Your Daily Fashion Bits! is a GenAI feature designed specifically for India's Fashion Ecommerce Platform like Myntra. It was first prototyped during phase 2 of Myntra HackerRamp 2024.
-
-![alt text](FashionSpy.png)
-
 
 ## Description
 GenZ, the group of individuals aged between 14 years and 27 years (as of 2024), is an important consumer market for Fashion Ecommerce Platforms in India like Myntra, Flipkart and Amazon. Inspite of counting millions of monthly users visiting these platforms, the challenge of converting this traffic into sales prevail. The most possible reason to this is the lack of focus on the segment of GenZ that are currently earning or developing the ability to earn higher than else in the near future. This segement of GenZ which priortizes self-growth and upskilling often finds it time consuming to browse through the endless feeds on these plaforms just to get the minutes of fashion and that often leads to fashion gap. This issue has a ripple effect on the harmony of fashion among the different sections of society in India. In other words, this problem is disturbing the equilibrium of fashion in the Indian Society by marginalizing fashion literacy and fashion cognition. This segment of GenZ is looking for meaningful interactions that are both time efficient and conducive to mindful purchases.
